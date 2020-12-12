@@ -7,8 +7,16 @@
    * 방대한 라이브러리 지원
    * 범용 언어(네트워크, 웹, 데이터분석, 기계학습) 
 
-### section01 
- #### 파이썬 소개 및 작업 환경 설정
- ### 기본 출력 : print('Hello world')
+
+ * Print ->Section02
+   * 가장 기본적인 OutPut(출력) 함수  
+   * 기본 출력
+   * Separator, End 옵션 사용
+   * Format 형식 출력
+   * Escape Code 사용법
+
+
  
+  
+  
 
