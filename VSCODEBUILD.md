@@ -32,4 +32,7 @@ ctrl+shift+p -> tasks: Configure Task -> json -> Other
         }
     ]
 }  
-입력
+입력  
+
+  
+빌드 하는법 Ctrl+B
