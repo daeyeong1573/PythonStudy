@@ -16,12 +16,23 @@
    * Escape Code 사용법
 
 
-* 파이썬 구성요소 기초 학습
+* 파이썬 구성요소 기초 학습  
   * 인코딩(입력,출력) 기본으로 UTF-8
   * 변수
   * 조건문
   * 함수,클래스,인스턴스(객체)
   * 정보 출력 
+      
+
+* 파이썬 데이터 타입 종류
+  * Boolean
+  * Numbers
+  * String
+  * Bytes
+  * Lists
+  * Tuples
+  * Sets
+  * Dictionaries 
 
 
  
