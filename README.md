@@ -1,6 +1,8 @@
 # PythonStudy
 
-### 파이썬 공식 사이트 :https://docs.python.org/3/library/math.html
+### 파이썬 참고 사이트 :
+ https://docs.python.org/3/library/math.html
+ https://www.w3schools.com/python/python_ref_string.asp
 
 * 파이썬 언어 장점
    * 문법이 간결
@@ -46,6 +48,13 @@
   * \*\* : 지수(제곱)
   * 단항 연산자
 
+* 문자형 관련 연산자
+  * 문자열 생성, 길이
+  * 이스케이프 문자
+  * 문자열 연산
+  * 문자열 형 변환
+  * 문자열 함수
+  * 문자열 슬라이싱 
 
  
   
