@@ -1,7 +1,7 @@
 # PythonStudy
 
 ### 파이썬 참고 사이트 :
- https://docs.python.org/3/library/math.html
+ https://docs.python.org/3/library/math.html  
  https://www.w3schools.com/python/python_ref_string.asp
 
 * 파이썬 언어 장점
